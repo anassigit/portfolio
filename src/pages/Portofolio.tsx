@@ -1,7 +1,7 @@
 import { Introduction } from '@/components/page-components/introduction';
+import { Hero } from '@/components/page-components/hero';
 import React, { useLayoutEffect, useRef } from 'react';
 import gsap from 'gsap'
-import { Hero } from '@/components/page-components/hero';
 
 const Portofolio: React.FC = () => {
 
